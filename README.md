@@ -1,4 +1,4 @@
-# two-qubit-driven-duffing-relaxation# Multiqubit Duffing Dynamics
+# Relaxation of a two qubit system through Duffing Oscillator
 
 ## Overview
 
@@ -46,7 +46,7 @@ For a two-qubit system, collective symmetry introduces additional selection rule
 
 ## Acknowledgements
 
-This work was carried out as part of the National Initiative on Undergraduate Science (NIUS) programme under project code **T024**.
+This work was carried out as part of the National Initiative on Undergraduate Science (NIUS) programme under project code **2024-T024**.
 
 I gratefully acknowledge the guidance, valuable discussions, and continuous support of **Prof. Sudhir R. Jain** throughout the course of this project.
 
